@@ -1,0 +1,27 @@
+{
+  "name": "kasta-token",
+  "version": "1.0.0",
+  "description": "This is the project for the KastaToken.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.3.0",
+    "@openzeppelin/contracts-upgradeable": "^4.3.0",
+    "@openzeppelin/test-helpers": "^0.5.15",
+    "@openzeppelin/truffle-upgrades": "^1.8.1",
+    "@truffle/hdwallet-provider": "^1.4.3",
+    "chai": "^4.3.4",
+    "dotenv": "^10.0.0",
+    "truffle": "^5.4.6",
+    "truffle-plugin-verify": "^0.5.20"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
