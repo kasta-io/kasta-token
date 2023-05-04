@@ -1,3 +1,5 @@
+![Kasta Token Symbol](./docs/token_symbol.png)
+
 # KastaToken
 This is the repo for the ERC20 KastaToken deployed on Polygon
 
